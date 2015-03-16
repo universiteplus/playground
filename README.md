@@ -18,7 +18,8 @@ A conventional and open way of challenging, on the other hand, provides a clean 
 
 ## List of Challenges
 
-1. [Post-with](https://github.com/universiteplus/post-with) *Frontend, Backend, Full-stack*.
+0. [Drafft](https://github.com/universiteplus/Drafft) *A template for your challenge.*
+1. [Post-with](https://github.com/universiteplus/post-with) *Frontend, Backend, Full-stack.*
 
 
 ## How to Challenge
